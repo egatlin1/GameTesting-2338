@@ -5,6 +5,7 @@
 * Developer: WildTangent
 * Release Date: May 18, 2005
 * Platform: Windows PC
+* Genre: RPG, Dungeon Crawler
 
 ### Game Title
 * Title: Fate
