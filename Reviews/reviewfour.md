@@ -26,4 +26,3 @@ Each side of the game, platforming and puzzle solving, seem a bit dull on their 
 Although I really do like this little browser-based game, there are a few things that keep it from getting an A+. As I said before, each component alone is a bit dull and nothing too special. Even though together the game is much much better, I think a little extra attention to each side would have made the feel and flow of the game a bit better for me. I also did run into a few bugs as I played. I'm not sure if it is something that only I encountered or not, but not being able to pick up at the last level I played from a previous play session is definitely annoying. As well as the escape key not working. However, despite those bugs, the game is still an excellent game worth a playthrough!
 
 ## Additional Information
-Links to other reviews or other information you used in this review.
