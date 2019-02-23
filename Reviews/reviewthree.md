@@ -4,7 +4,7 @@
 * Developer: Cyan Worlds
 * Release Date: September 24, 1993
 * Platform: Windows PC
-* Grene: Puzzle, Graphic Adventure
+* Genre: Puzzle, Graphic Adventure
 
 ### Game Title
 * Title: Myst 
