@@ -1,12 +1,17 @@
-# Game Review for (GAME TITLE)
+# Game Review for Toodee and Topdee
 
 ## Details
+* Developer: dietzribi and kajnoon
+* Release Date: October 8, 2018
+* Platform: Browser
+* Grene: Platformer, Puzzle
 
 ### Game Title
-The name of the game, subtitle, and the url or information on how to find the game.
+* Title: Toodee and TopDee
+* Where to find: https://armorgames.com/toodee-and-topdee-game/18473?tag-referral=platform
 
 ### Rating
-Insert your rating system. Example: I rate games from 1 to 5 stars and I give this game a 3 star rating.
+A  A Unique blend of two unrelated genres that somehow mesh together perfectly
 
 ## Summary
 This game is about... this should be at least 3-4 paragraphs summarising the gameplay mechanics of the game. You should be answering the who, what, when, where, why, and how of the game itself.
