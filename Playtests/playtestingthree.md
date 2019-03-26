@@ -1,8 +1,8 @@
-# Playtest for [Game Title]
+# Playtest for Alchemist
 
 * Game Publisher
 * Game Rating
-* [Game Title Website](http://example.com)
+* [Armor Games](https://armorgames.com/play/17883/alchemist?tag-referral=adventure)
 
 **Question:** During your playtesting where the rules of the game understandable? If not, what was not clear.
 > _Answer:_ Your answer here
