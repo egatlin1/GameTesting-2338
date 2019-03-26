@@ -1,4 +1,4 @@
-# Playtest for [Game Title]
+# Playtest for Armor RPG
 
 * Armor Gamrs
 * C+
