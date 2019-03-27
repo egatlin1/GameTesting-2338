@@ -5,10 +5,10 @@
 * [Armor Games](https://armorgames.com/play/17883/alchemist?tag-referral=adventure)
 
 **Question:** During your playtesting where the rules of the game understandable? If not, what was not clear.
-> _Answer:_ Your answer here
+> The objective of the game was said up front, but the rules of the game mechanics as a whole were something I had to figure out.
 
 **Question:** During gameplay did you notice anything that shouldn't be in the game or could be removed and it wouldn't effect game play?
-> _Answer:_ Your answer here
+> There were a few platforms that you were not even able to get to and served no purpose.
 
 **Question:** Is this game balanced? If not, what is the target audience for this game based on that imbalance?
 > _Answer:_ Your answer here
