@@ -1,7 +1,7 @@
 # Playtest for Alchemist
 
-* Game Publisher
-* Game Rating
+* Game Publisher: Armor Games
+* Game Rating: D
 * [Armor Games](https://armorgames.com/play/17883/alchemist?tag-referral=adventure)
 
 **Question:** During your playtesting where the rules of the game understandable? If not, what was not clear.
