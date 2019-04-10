@@ -19,8 +19,8 @@ _If it is an automated tool, does it work with web-based tools? What languages (
 
 ### Selenium Features
 * Can be set up for Automated Testing
-* Feature Two
-* Feature Three
+* Supports all popular OS's (Windows, Mac OS, Linux, UNIX, etc.)
+* Open source
 
 
 ## TestingWhiz
@@ -67,4 +67,4 @@ _If it is an automated tool, does it work with web-based tools? What languages (
 ### TestComplete Features
 * Can be set up for Automated Testing
 * Can be set up to record testing or take screen shots of bugs found
-* Feature Three
+* Supports cross browser testing
