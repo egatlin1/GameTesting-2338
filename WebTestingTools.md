@@ -11,14 +11,14 @@ _Does this tool do any test case storage?_
 
 _Does this tool allow tester to link requirements or defects to test cases?_ 
 
-> 
+> Yes.
 
 _If it is an automated tool, does it work with web-based tools? What languages (Java, .NET)?_ 
 
 > Yes, Selenium is built around testing web applications. It uses C#, JavaScript, Python, Perl, PHP, Ruby, Scala
 
 ### Selenium Features
-* Feature One
+* Can be set up for Automated Testing
 * Feature Two
 * Feature Three
 
@@ -34,7 +34,7 @@ _Does this tool do any test case storage?_
 
 _Does this tool allow tester to link requirements or defects to test cases?_ 
 
-> 
+> Yes.
 
 _If it is an automated tool, does it work with web-based tools? What languages (Java, .NET)?_ 
 
@@ -42,9 +42,9 @@ _If it is an automated tool, does it work with web-based tools? What languages (
 
 
 ### TestingWhiz Features
-* Feature One
-* Feature Two
-* Feature Three
+* Can be set up for Automated Testing
+* Lots of storage for test data
+* Visual "Code-less" editor/easy to learn
 
 
 
@@ -58,13 +58,13 @@ _Does this tool do any test case storage?_
 
 _Does this tool allow tester to link requirements or defects to test cases?_ 
 
-> 
+> Yes.
 
 _If it is an automated tool, does it work with web-based tools? What languages (Java, .NET)?_ 
 
 > It is built to be an automated GUI testing program. It works with web applications and can even record videos of the tests that you can replay to diagnose and fix any issues faster. It uses JavaScript, Python, VBScript, DelphiScript, C#, C++
 
 ### TestComplete Features
-* Feature One
-* Feature Two
+* Can be set up for Automated Testing
+* Can be set up to record testing or take screen shots of bugs found
 * Feature Three
