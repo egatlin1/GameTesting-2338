@@ -1,0 +1,117 @@
+{
+  "id": "a0418d93-b8e0-42e6-9ea9-f7ab5d873b84",
+  "version": "2.0",
+  "name": "TestProject",
+  "url": "https://www.youtube.com/",
+  "tests": [{
+    "id": "5f2d5329-2d39-49e8-8978-dd4b40b64620",
+    "name": "Test1",
+    "commands": [{
+      "id": "a58514bf-3492-4916-a4bb-f4afa41645bf",
+      "comment": "",
+      "command": "open",
+      "target": "https://www.youtube.com/",
+      "targets": [],
+      "value": ""
+    }, {
+      "id": "992d8899-1269-49c6-a25e-3a7d3843298e",
+      "comment": "",
+      "command": "setWindowSize",
+      "target": "1536x824",
+      "targets": [],
+      "value": ""
+    }, {
+      "id": "c81c5e51-b4b1-4695-8756-c5dc9e5ce519",
+      "comment": "",
+      "command": "click",
+      "target": "name=search_query",
+      "targets": [
+        ["name=search_query", "name"],
+        ["css=#search-input > #search", "css:finder"],
+        ["xpath=//input[@id='search']", "xpath:attributes"],
+        ["xpath=//div[@id='search-input']/input", "xpath:idRelative"],
+        ["xpath=//input", "xpath:position"]
+      ],
+      "value": ""
+    }, {
+      "id": "344ad58d-2f12-4c03-85e1-eaf5d6f38caf",
+      "comment": "",
+      "command": "type",
+      "target": "name=search_query",
+      "targets": [
+        ["name=search_query", "name"],
+        ["css=#search-input > #search", "css:finder"],
+        ["xpath=//input[@id='search']", "xpath:attributes"],
+        ["xpath=//div[@id='search-input']/input", "xpath:idRelative"],
+        ["xpath=//input", "xpath:position"]
+      ],
+      "value": "rick astley never gonna give you up"
+    }, {
+      "id": "6c58c0a4-7622-4948-b1d6-e2354482a7d5",
+      "comment": "",
+      "command": "click",
+      "target": "css=#search-icon-legacy > .style-scope:nth-child(1)",
+      "targets": [
+        ["css=#search-icon-legacy > .style-scope:nth-child(1)", "css:finder"],
+        ["xpath=//button[@id='search-icon-legacy']/yt-icon", "xpath:idRelative"],
+        ["xpath=//form/button/yt-icon", "xpath:position"]
+      ],
+      "value": ""
+    }, {
+      "id": "48e6b36e-d973-439c-80c4-76f9b8b204eb",
+      "comment": "",
+      "command": "mouseOver",
+      "target": "linkText=Rick Astley - Never Gonna Give You Up (Video)",
+      "targets": [
+        ["linkText=Rick Astley - Never Gonna Give You Up (Video)", "linkText"],
+        ["css=.style-scope:nth-child(1) > #dismissable #title-wrapper #video-title", "css:finder"],
+        ["xpath=//a[contains(text(),'Rick Astley - Never Gonna Give You Up (Video)')]", "xpath:link"],
+        ["xpath=(//a[@id='video-title'])[23]", "xpath:attributes"],
+        ["xpath=//div[@id='title-wrapper']/h3/a", "xpath:idRelative"],
+        ["xpath=(//a[contains(@href, '/watch?v=dQw4w9WgXcQ')])[2]", "xpath:href"],
+        ["xpath=//div/div/div/div/h3/a", "xpath:position"],
+        ["xpath=//a[contains(.,'Rick Astley - Never Gonna Give You Up (Video)')]", "xpath:innerText"]
+      ],
+      "value": ""
+    }, {
+      "id": "8aff0443-c38c-43a2-9a6e-73533e664dea",
+      "comment": "",
+      "command": "mouseOut",
+      "target": "linkText=Rick Astley - Never Gonna Give You Up (Video)",
+      "targets": [
+        ["linkText=Rick Astley - Never Gonna Give You Up (Video)", "linkText"],
+        ["css=.style-scope:nth-child(1) > #dismissable #title-wrapper #video-title", "css:finder"],
+        ["xpath=//a[contains(text(),'Rick Astley - Never Gonna Give You Up (Video)')]", "xpath:link"],
+        ["xpath=(//a[@id='video-title'])[23]", "xpath:attributes"],
+        ["xpath=//div[@id='title-wrapper']/h3/a", "xpath:idRelative"],
+        ["xpath=(//a[contains(@href, '/watch?v=dQw4w9WgXcQ')])[2]", "xpath:href"],
+        ["xpath=//div/div/div/div/h3/a", "xpath:position"],
+        ["xpath=//a[contains(.,'Rick Astley - Never Gonna Give You Up (Video)')]", "xpath:innerText"]
+      ],
+      "value": ""
+    }, {
+      "id": "1e4616df-d870-46a9-b3da-d5245a9914d6",
+      "comment": "",
+      "command": "click",
+      "target": "css=.ytd-thumbnail > #thumbnail",
+      "targets": [
+        ["css=.ytd-thumbnail > #thumbnail", "css:finder"],
+        ["xpath=//img[contains(@src,'https://i.ytimg.com/an_webp/dQw4w9WgXcQ/mqdefault_6s.webp?du=3000&sqp=CKzhreYF&rs=AOn4CLBeztslSiN9GhPaZfei_f5CGhoz4g')]", "xpath:img"],
+        ["xpath=//img[@id='thumbnail']", "xpath:attributes"],
+        ["xpath=//div[@id='mouseover-overlay']/ytd-moving-thumbnail-renderer/img", "xpath:idRelative"],
+        ["xpath=//ytd-moving-thumbnail-renderer/img", "xpath:position"]
+      ],
+      "value": ""
+    }]
+  }],
+  "suites": [{
+    "id": "0d397626-d0f6-4234-b7c1-91ff48371ba5",
+    "name": "Default Suite",
+    "persistSession": false,
+    "parallel": false,
+    "timeout": 300,
+    "tests": ["5f2d5329-2d39-49e8-8978-dd4b40b64620"]
+  }],
+  "urls": ["https://www.youtube.com/"],
+  "plugins": []
+}
